@@ -1,0 +1,60 @@
+﻿h1 {
+    font-family: Georgia;
+    color: #AF002A;
+    font-size: 1.5em;
+    text-align:center;
+}
+
+h2 {
+    font-family: Georgia;
+    font-size: .75em;
+    color: #AF002A;
+    font-style: italic;
+}
+
+h1.big {
+    font-family: Georgia;
+    font-size: 2.5em;
+    color: #AF002A;
+}
+
+h1.medium {
+    font-family: Georgia;
+    font-size: 1.5em;
+    color: #013220;
+}
+h3 {font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.0em;
+    color: black
+}
+
+footer {
+    font-size: .5em;
+    color: #000000;
+    text-align: center;
+}
+
+body {
+    font-family: Georgia;
+    color: navy;
+    font-size: 1.1em;
+    text-emphasis-color: #0D9AAC;
+    
+}
+
+.myButton {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 6px;
+    font-family: Georgia;
+    background-color: #AF002A;
+    border: 2px solid black;
+    display: inline-block;
+}
+.myButton:hover{
+    background: #E80038;
+}
+img{
+    height:350px;
+    width: auto;
+}
